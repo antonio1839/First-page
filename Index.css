@@ -1,0 +1,7 @@
+.imagen-responsiva {
+       width: 20%;
+       max-width: 20%;
+       height: auto;
+       object-fit: cover; /* o contain, fill, etc. */
+       object-position: top;
+}
